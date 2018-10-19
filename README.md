@@ -1,5 +1,6 @@
 # Resource-Page
-A resource pool for Women in Computer Science
+A resource pool for Women in Computer Science. When women support each other incredible things happen. Help contibute to this resource pool if you can.
+
 
 ## Applications
 Check this site out for currently open internships and full-time positions:
